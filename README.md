@@ -1,4 +1,4 @@
-"# TKO_7093-Statistical-Data-Analysis" 
+Student Projects in TKO_7093-Statistical-Data-Analysis
 
 Content
 
