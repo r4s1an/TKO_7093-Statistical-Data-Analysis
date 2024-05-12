@@ -1,4 +1,5 @@
 "# TKO_7093-Statistical-Data-Analysis" 
+
 Content
 
 This course focused on practical skills of data analysis. The lectures introduced theoretical concepts and discuss examples of how statistical analysis is performed. Hands-on skills were practised by solving exercises and project work.
